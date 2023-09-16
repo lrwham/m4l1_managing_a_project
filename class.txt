@@ -1,4 +1,4 @@
-Crimson
+Azure
 Orange
 Blue
 Cyan
